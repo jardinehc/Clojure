@@ -1,0 +1,7 @@
+Chawla:Kalpana:0:0:3:0
+Davis:Jo Ann:0:0:5:2
+de Vries:Gustav:3:1:0:1
+Goldberg:Adele:2:1:1:0
+Noriega:Carlos:2:2:0:0
+Ride:Sally:0:1:0:2
+Turing:Alan:0:0:0:0
